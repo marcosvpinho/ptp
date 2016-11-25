@@ -1,0 +1,8 @@
+*.o
+*.log
+noack
+main
+protocoloTeste
+*.histo
+us*
+*~
