@@ -35,7 +35,7 @@
 #define COLUNAS 15
 
 //#define DEVICE "wlan2"
-#define MTU 1500
+#define MTU 1496
 #define MASK "255.255.255.0"
 #define MAX_BUF 2048
 //#define ETH_TYPE_FIELD 	0x080a
